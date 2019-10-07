@@ -59,7 +59,7 @@ int getMedian(int ar1[], int ar2[], int n)
     return (m1 + m2)/2; 
 } 
 
-int main
+int main() 
 {
 	cout << "Input" << "\n";
 	int n;
