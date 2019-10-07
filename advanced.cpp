@@ -71,7 +71,7 @@ int median(int arr[], int n)
         return arr[n / 2]; 
 } 
 
-int main(int argc, char** argv)
+int main()
 {
 	cout << "Input" << "\n";
 	int n;
