@@ -1,7 +1,6 @@
 Median-of-Two-Sorted-Arrays
 ===
 
-
 ## Catalog
 
 [TOC]
@@ -55,7 +54,7 @@ Median-of-Two-Sorted-Arrays
     * advanced: 66 microseconds
     ![](https://i.imgur.com/JM5gJDc.png)
     
-## Summary:
+## Summary
 
 | Method \ N| 10^4     | 10^5     | 10^6    |
 | --------  | -------- | -------- |-------- |
@@ -69,6 +68,7 @@ Median-of-Two-Sorted-Arrays
 * https://www.geeksforgeeks.org/median-of-two-sorted-arrays/
 * https://zhuanlan.zhihu.com/p/33106213
 * https://www.geeksforgeeks.org/measure-execution-time-function-cpp/
+
 :::info
 **Find this document incomplete?** Leave a comment!
 :::
